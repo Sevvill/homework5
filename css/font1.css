@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../font/Poppins-Thin.eot');
+    src: url('../font/Poppins-Thin.eot') format('embedded-opentype'),
+        url('../font/Poppins-Thin.eot') format('woff2'),
+        url('../font/Poppins-Thin.eot') format('woff'),
+        url('../font/Poppins-Thin.eot') format('truetype'),
+        url('../font/Poppins-Thin.eot') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

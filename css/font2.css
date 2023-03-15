@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Nerko One';
+    src: url('../font/font2/NerkoOne-Regular.eot');
+    src: url('../font/font2/NerkoOne-Regular.eot') format('embedded-opentype'),
+        url('../font/font2/NerkoOne-Regular.eot') format('woff2'),
+        url('../font/font2/') format('woff'),
+        url('../font/font2/NerkoOne-Regular.eot') format('truetype'),
+        url('../font/font2/NerkoOne-Regular.eot') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
